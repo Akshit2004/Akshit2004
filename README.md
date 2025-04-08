@@ -35,8 +35,7 @@ Developed a responsive website for a call center, focusing on client engagement.
 ### UI/UX Designer - MURIOUS Tech Fest (Jan 2024 - Feb 2024)
 Designed the app interface for the tech fest, used by over 500 attendees.
 
-![Akshit's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Akshit2004&theme=dracula)
-
+![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit2004&show_icons=true&theme=radical)
 
 ## Skills
 
