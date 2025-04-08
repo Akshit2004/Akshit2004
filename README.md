@@ -8,7 +8,7 @@ Hi, I'm **Akshit Mahajan**, a passionate Front-End Developer and UI/UX Designer.
 - **Skills**: HTML, CSS, JavaScript, Python, MySQL, UI/UX Design, Figma
 - **Focus**: Building beautiful, responsive websites with a focus on accessibility and usability.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-mahajan&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit2004&layout=compact)
 
 
 ## My Journey
@@ -35,7 +35,7 @@ Developed a responsive website for a call center, focusing on client engagement.
 ### UI/UX Designer - MURIOUS Tech Fest (Jan 2024 - Feb 2024)
 Designed the app interface for the tech fest, used by over 500 attendees.
 
-![Akshit's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=akshit-mahajan&theme=dracula)
+![Akshit's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Akshit2004&theme=dracula)
 
 
 ## Skills
