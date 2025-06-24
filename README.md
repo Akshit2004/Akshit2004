@@ -36,6 +36,7 @@ Developed a responsive website for a call center, focusing on client engagement.
 Designed the app interface for the tech fest, used by over 500 attendees.
 
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit2004&show_icons=true&theme=radical)
+![Akshit's Language stats]([https://github-readme-stats.vercel.app/api?username=Akshit2004&show_icons=true&theme=radical](https://github-readme-stats.hackclub.dev/api/wakatime?username=9657&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
 
 ## Skills
 
