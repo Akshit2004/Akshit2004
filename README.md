@@ -49,4 +49,3 @@ Designed the app interface for the tech fest, used by over 500 attendees.
 - Phone: +91 8894606932
 - Location: Solan, Himachal Pradesh
 
-Feel free to check out my [GitHub](https://github.com/akshit-mahajan) for more projects!
