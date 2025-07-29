@@ -14,7 +14,6 @@ Hi, I'm **Akshit Mahajan**, a passionate Front-End Developer and UI/UX Designer.
 ## My Journey
 
 - **B.Tech, Computer Science** - Jaypee University of Information Technology (2022 - Present)
-- **CGPA**: 7.1
 
 ## Projects
 
