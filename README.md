@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- EPIC MATRIX STYLE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=💻%20AKSHIT%20MAHAJAN%20💻&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=40&descAlign=60&descAlignY=55&desc=🚀%20FRONTEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20REACT%20SPECIALIST%20🚀"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=💻%20AKSHIT%20MAHAJAN%20💻&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=40&descAlign=60&descAlignY=55&desc=🚀%20DIGITAL%20ARCHITECT%20%7C%20CODE%20WIZARD%20%7C%20PIXEL%20PERFECTIONIST%20🚀"/>
 
-<!-- PROFESSIONAL TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00ff41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Frontend+Developer+%26+Software+Engineer+💻;🚀+React.js+Specialist+%7C+Full-Stack+Developer+🚀;⚡+2%2B+Years+Professional+Experience+⚡;🎯+Building+Scalable+Web+Applications+🎯;✨+Turning+Ideas+Into+Digital+Reality+✨"/>
+<!-- INSANE MULTI-LINE TYPING ANIMATION -->
+<img src="https://readme-typing-svg.her### 🏅 **PROFESSIONAL ACHIEVEMENT UNLOCKED**
 
-<!-- EPIC MATRIX STYLE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=💻%20AKSHIT%20MAHAJAN%20💻&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=40&descAlign=60&descAlignY=55&desc=🚀%20FRONTEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20REACT%20SPECIALIST%20🚀"/>
-
-<!-- PROFESSIONAL TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00ff41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Frontend+Developer+%26+Software+Engineer+💻;�+React.js+Specialist+%7C+Full-Stack+Developer+🚀;⚡+2%2B+Years+Professional+Experience+⚡;🎯+Building+Scalable+Web+Applications+🎯;✨+Turning+Ideas+Into+Digital+Reality+✨"/>
+<img src="https://img.shields.io/badge/💼_INTERNSHIPS_COMPLETED-2+-00ff41?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/📈_TRAFFIC_GROWTH-50%25_INCREASE-ff6b35?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🎫_SYSTEMS_BUILT-TICKETING_&_TRACKING-ffd700?style=for-the-badge&logo=ticket&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🌍_GLOBAL_REACH-FRENCH_LOCALIZATION-00ff41?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🏆_LEADERSHIP-TECH_CLUB_COORDINATOR-ff6b35?style=for-the-badge&logo=crown&logoColor=white&labelColor=000000"/>.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00ff41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎭+MASTER+OF+DIGITAL+UNIVERSES+🎭;💻+Frontend+Developer+%7C+UI%2FUX+Designer+💻;🐍+Python+Wizard+%7C+Code+Alchemist+🧙‍♂️;🚀+Building+Tomorrow's+Web+Today+🚀;✨+Turning+Coffee+Into+Code+Since+2022+☕"/>
 
 <!-- ANIMATED FIRE BADGES -->
 <p align="center">
   <a href="https://akshit-mahajan.netlify.app">
-    <img src="https://img.shields.io/badge/🔥_PORTFOLIO-VISIT_NOW-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/🔥_PORTFOLIO-VISIT_NOW-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=FF6B35&logoWidth=20&animation=pulse"/>
   </a>
   <a href="mailto:akshumahajan2004@gmail.com">
     <img src="https://img.shields.io/badge/💌_EMAIL-LETS_CHAT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
@@ -328,14 +328,14 @@ Traffic Growth   ████████████████████   
 </td>
 <td width="50%">
 
-### 🎟️ **TICKETING SYSTEM - EON INFOTECH**
-[![Ticketing System](https://github-readme-stats.vercel.app/api/pin/?username=Akshit2004&repo=ticketing-system&theme=chartreuse-dark&hide_border=true&bg_color=0,000000,111111&title_color=00ff41&text_color=ffffff&icon_color=ff6b35)](#)
+### 💼 **CALL CENTER REVOLUTION**
+[![Call Center](https://github-readme-stats.vercel.app/api/pin/?username=Akshit2004&repo=call-center&theme=chartreuse-dark&hide_border=true&bg_color=0,000000,111111&title_color=00ff41&text_color=ffffff&icon_color=ff6b35)](#)
 
-**🏢 Enterprise Implementation:**
-- 🎫 Internal support ticket management system
-- ⚡ Real-time status tracking & escalation processes
-- 📊 Admin dashboard for efficient workflow management
-- 🚀 PostgreSQL backend with React.js frontend
+**🏢 Business Solutions:**
+- 📞 Client engagement focus
+- 💻 Responsive architecture
+- ⚡ Performance optimized
+- 🎯 Conversion-driven design
 
 </td>
 </tr>
@@ -772,4 +772,3 @@ const akshitProfessional = {
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Akshit2004&color=brightgreen&style=for-the-badge&label=👁️‍🗨️+TOTAL+VIEWS"/>
 </div>
-
